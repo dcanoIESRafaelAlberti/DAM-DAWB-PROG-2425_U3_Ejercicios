@@ -1,40 +1,25 @@
-# Actividad: **Ejercicios U2**
+# Actividad: **Ejercicios U3**
 
-**ID actividad:** PROG-2425-U2-01
+**ID actividad:** PROG-2425-U3-01
 
 **Agrupamiento de la actividad**: Individual
 
 ---
 
-### Descripción:
-
-La actividad consiste en resolver varios ejercicios de la Unidad 2 con Python. Los estudiantes deberán crear un programa para cada ejercicio, aplicando los conceptos de condicionales, bucles, captura de excepciones y depuración.
-
-A partir de ahora, todos los programas entregados en Python deben tener la función `main()` y deben cumplir con la "Separación de Responsabilidades". Para ello, los estudiantes deberán crear las funciones sw única responsabilidad necesarias para resolver el problema.
-
-**Objetivo:**
-
-- Aplicar las sentencias condicionales para resolver problemas que requieren decisiones lógicas.
-- Utilizar bucles e iteraciones para automatizar procesos repetitivos.
-- Manejar excepciones para evitar errores en la ejecución del programa.
-- Mejorar el código mediante la depuración y detección de errores.
-
 **Trabajo a realizar:**
 
 1. Realizar los ejercicios siguientes:
-   - [Práctica 2.1: Sentencias condicionales](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica001/) *(nomenclatura de los programas: ej21_01.py ... ej21_10.py)*
-   - [Práctica 2.2: Sentencias iterativas y saltos](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica002/) *(nomenclatura de los programas: ej22_01.py ... ej22_25.py)*
-   - [Práctica 2.3: Capturas de excepciones](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica003/) *(nomenclatura de los programas: ej23_01.py ... ej23_05.py)*
-   - [Práctica 2.4: Depurar programas](https://revilofe.github.io/section1/u02/practica/PROG-U2.-Practica004/) *(nomenclatura del programa: ej24_01.py)*
+   - [Práctica 3.0: Cadenas](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica000/) *(nomenclatura de los programas: ej30_01.py ... ej30_04.py)*
+   - [Práctica 3.1: Listas y tuplas](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica001/) *(nomenclatura de los programas: ej31_01.py ... ej31_13.py)*
+   - [Práctica 3.2: Diccionarios](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica002/) *(nomenclatura de los programas: ej32_01.py ... ej32_11.py)*
+   - [Práctica 3.3: Conjuntos](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica002/) *(nomenclatura del programa: ej33_01.py ... ej33_06.py)*
 3. Crear un archivo Python para cada ejercicio y organizar los archivos según la estructura solicitada.
 4. Los programas deben ubicarse en la carpeta `src`. Cada grupo de programas dentro de la subcarpeta adecuada: condicionales, bucles, excepciones, depuracion
-5. Realizar las pruebas unitarias para las funciones de al menos 10 ejercicios a tu elección. Estas pruebas se almacenarán en la carpeta `tests` con la nomenclatura `test_ej2X_XX.py`.
-6. La práctica 2.4 debes documentarla con DocStrings. Para ello, lee atentamente los siguientes enlaces: [2.5.-Documentar el código](https://revilofe.github.io/section1/u02/teoria/PROG-U2.5.-Documentar/) y [2.5.1-¿Deberías documentar tu código?](https://revilofe.github.io/section1/u02/teoria/PROG-U2.5.1.-DeberiasDocumentar/). Puedes usar el formato que más te guste *(Docstrings de Google, Texto Reestructurado, Cadenas de documentación NumPy/SciPy o Epitexto)*
 
 ### Recursos
 
 - Temario trabajado en clase.
-- Recursos disponibles en la web del curso: [U2: Sentencias condicionales y repetitivas](https://revilofe.github.io/section1/u02/).
+- Recursos disponibles en la web del curso: [U3: Sentencias condicionales y repetitivas](https://revilofe.github.io/section1/u03/).
 
 ---
 
@@ -42,13 +27,7 @@ A partir de ahora, todos los programas entregados en Python deben tener la funci
 
 **RA y CE evaluados**: 
 
-- RA2: Implementar sentencias condicionales y repetitivas en la resolución de problemas.
-   - CE2.1: Aplicar estructuras de control condicionales en diferentes problemas.
-   - CE2.2: Utilizar sentencias iterativas y excepciones en la implementación de soluciones.
-
-- RA3: Depurar y validar el funcionamiento del código.
-   - CE3.1: Identificar y corregir errores en los programas mediante técnicas de depuración.
-   - CE3.2: Usar pruebas unitarias para validar el correcto funcionamiento del código.
+- RA6: Escribe programas que manipulen información seleccionando y utilizando tipos avanzados de datos.
 
 **Conlleva presentación**: NO
 
